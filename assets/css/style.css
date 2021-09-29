@@ -1,0 +1,31 @@
+
+.navitem-btn{
+    padding: 12px 40px !important;
+    background-color: #363636 !important;
+    color: #fff !important;
+    font-size: 13px !important;
+    letter-spacing: 1.5px !important;
+    border-radius: 30px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+    transition: .3s ease-in-out !important; 
+}
+
+.navitem-btn:hover{
+    background-color:#ffb1a7 !important;
+}
+
+.navitem-btn:focus{
+    box-shadow: none !important;
+}
+
+
+.mtop_login{
+    margin-top: 5%;
+}
+
+
+
+.profile-link{
+    text-transform: capitalize !important;
+}
